@@ -40,9 +40,15 @@
 }
 
 .meimg {
-  src= screendark.jpg;
-  width: 100%;
-  padding:20px;
+width: 100%;
+padding:20px;
+height:100px;
+}
+
+.skyrimsoundtrack {
+width: 100%;
+padding:20px;
+height:100px;
 }
 
 
